@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kaelyavel
+- 👋 Hi, I’m El Bachir
 - 🌱 I’m a Gameplay Programmer mainly using Unity
-- 👀 I’m interested in Computer Graphics / Animation
+- 👀 I’m interested in Computer Graphics / 2D-3D Animation-Modeling / Game Engines
 - :round_pushpin:  I'm based in France
 - 📫 You can reach me out by mail, or through Github DMs. 
 <!---
