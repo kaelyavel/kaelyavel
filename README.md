@@ -2,7 +2,7 @@
 - 🌱 I’m a Gameplay Programmer mainly using Unreal Engine and Unity.
 - 🎏 My two main programming languages are C++ and C#.
 - 👀 I’m interested in Computer Graphics / 2D and 3D Animation / 3D Modeling / Game Engines (open-source, semi open-source, and proprietary ones).
-- :round_pushpin:  I'm based in France
+- :round_pushpin:  I'm based in France.
 - 📫 You can reach me out by mail, or through Github DMs.
 
 - The last games I worked on :
