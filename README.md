@@ -1,6 +1,7 @@
 - 👋 Hello, I’m El Bachir
-- 🌱 I’m a Gameplay Programmer mainly using Unreal Engine and Unity.
+- 🌱 I’m an HPC Graduate with Gameplay Programming experience, mainly using Unreal Engine and Unity.
 - 🎏 My two main programming languages are C++ and C#.
+- 🔤 I have wrote parallel programs in C (MPI/OpenMP target for time optimisation) , C++ (CUDA for Raytracing), and Python (Biology data processing).
 - 👀 I’m interested in Computer Graphics / 2D and 3D Animation / 3D Modeling / Game Engines (open-source, semi open-source, and proprietary ones).
 - :round_pushpin:  I'm based in France.
 - 📫 You can reach me out by mail, or through Github DMs.
