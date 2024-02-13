@@ -1,4 +1,4 @@
-- 👋 Hello, I’m El Bachir
+- 👋 Hello, I’m **El Bachir**
 - 🌱 I’m an HPC Graduate with Gameplay Programming experience, mainly using **Unreal Engine** and **Unity**.
 - 🎏 My two main programming languages are **C++** and **C#** due to my usage of **UE** and **Unity**.
 - 🔤 I have wrote parallel programs in :
@@ -18,7 +18,7 @@
 - :round_pushpin:  I'm based in France.
 - 📫 You can reach me out by mail, or through Github DMs.
 
-- The last games I worked on :
+- 📱 The last games I worked on :
   *  "Looper Eats" on IOS : https://tinyurl.com/kael-looper (propriety of BMS, I was responsible for coding the entire Gameplay Mechanics)
   *  "Cup Stack 3D!" on IOS : https://tinyurl.com/kael-stack  (propriety of BMS, I was responsible for coding the entire Gameplay Mechanics)
 
