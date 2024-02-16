@@ -1,6 +1,6 @@
 - 👋 Hello, I’m **El Bachir**
 - 🌱 I’m an HPC Graduate with Gameplay Programming experience, mainly using **Unreal Engine** and **Unity**.
-- 🎏 My two main programming languages are **C++** and **C#** due to my usage of **UE** and **Unity**.
+- 🎏 My two main programming languages are **C++** and **C#**.
 - 🔤 I have wrote parallel programs in :
   * **C** -> *MPI/OpenMP target* for time optimisation
   * **C++** -> *CUDA* for Raytracing
