@@ -4,7 +4,7 @@
 - 🔤 I have wrote parallel programs in :
   * **C** -> *MPI/OpenMP target* for time optimisation
   * **C++** -> *CUDA* for Raytracing
-  * **C#** -> Gameplay and Systems programming
+  * **C#** -> .Net environment and Gameplay and Systems programming
   * **Python** -> Biology data processing
   
 - 👀 I’m interested in :
